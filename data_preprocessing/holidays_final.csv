@@ -1,0 +1,140 @@
+date,type,locale,locale_name,description,transferred,year,month,day,dayofweek,weekofyear,is_weekend,quarter,is_month_start,is_month_end,season
+2016-01-01,Holiday,National,Ecuador,Primer dia del ano,0,2016,1,1,4,53,0,1,1,0,0
+2016-02-08,Holiday,National,Ecuador,Carnaval,0,2016,2,8,0,6,0,1,0,0,0
+2016-02-09,Holiday,National,Ecuador,Carnaval,0,2016,2,9,1,6,0,1,0,0,0
+2016-03-02,Holiday,Local,Manta,Fundacion de Manta,0,2016,3,2,2,9,0,1,0,0,1
+2016-03-25,Holiday,National,Ecuador,Viernes Santo,0,2016,3,25,4,12,0,1,0,0,1
+2016-04-01,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,0,2016,4,1,4,13,0,2,1,0,1
+2016-04-12,Holiday,Local,Cuenca,Fundacion de Cuenca,0,2016,4,12,1,15,0,2,0,0,1
+2016-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,0,2016,4,14,3,15,0,2,0,0,1
+2016-04-16,Event,National,Ecuador,Terremoto Manabi,0,2016,4,16,5,15,1,2,0,0,1
+2016-04-17,Event,National,Ecuador,Terremoto Manabi+1,0,2016,4,17,6,15,1,2,0,0,1
+2016-04-18,Event,National,Ecuador,Terremoto Manabi+2,0,2016,4,18,0,16,0,2,0,0,1
+2016-04-19,Event,National,Ecuador,Terremoto Manabi+3,0,2016,4,19,1,16,0,2,0,0,1
+2016-04-20,Event,National,Ecuador,Terremoto Manabi+4,0,2016,4,20,2,16,0,2,0,0,1
+2016-04-21,Holiday,Local,Riobamba,Cantonizacion de Riobamba,0,2016,4,21,3,16,0,2,0,0,1
+2016-04-21,Event,National,Ecuador,Terremoto Manabi+5,0,2016,4,21,3,16,0,2,0,0,1
+2016-04-22,Event,National,Ecuador,Terremoto Manabi+6,0,2016,4,22,4,16,0,2,0,0,1
+2016-04-23,Event,National,Ecuador,Terremoto Manabi+7,0,2016,4,23,5,16,1,2,0,0,1
+2016-04-24,Event,National,Ecuador,Terremoto Manabi+8,0,2016,4,24,6,16,1,2,0,0,1
+2016-04-25,Event,National,Ecuador,Terremoto Manabi+9,0,2016,4,25,0,17,0,2,0,0,1
+2016-04-26,Event,National,Ecuador,Terremoto Manabi+10,0,2016,4,26,1,17,0,2,0,0,1
+2016-04-27,Event,National,Ecuador,Terremoto Manabi+11,0,2016,4,27,2,17,0,2,0,0,1
+2016-04-28,Event,National,Ecuador,Terremoto Manabi+12,0,2016,4,28,3,17,0,2,0,0,1
+2016-04-29,Event,National,Ecuador,Terremoto Manabi+13,0,2016,4,29,4,17,0,2,0,0,1
+2016-04-30,Event,National,Ecuador,Terremoto Manabi+14,0,2016,4,30,5,17,1,2,0,1,1
+2016-05-01,Holiday,National,Ecuador,Dia del Trabajo,0,2016,5,1,6,17,1,2,1,0,1
+2016-05-01,Event,National,Ecuador,Terremoto Manabi+15,0,2016,5,1,6,17,1,2,1,0,1
+2016-05-02,Event,National,Ecuador,Terremoto Manabi+16,0,2016,5,2,0,18,0,2,0,0,1
+2016-05-03,Event,National,Ecuador,Terremoto Manabi+17,0,2016,5,3,1,18,0,2,0,0,1
+2016-05-04,Event,National,Ecuador,Terremoto Manabi+18,0,2016,5,4,2,18,0,2,0,0,1
+2016-05-05,Event,National,Ecuador,Terremoto Manabi+19,0,2016,5,5,3,18,0,2,0,0,1
+2016-05-06,Event,National,Ecuador,Terremoto Manabi+20,0,2016,5,6,4,18,0,2,0,0,1
+2016-05-07,Additional,National,Ecuador,Dia de la Madre-1,0,2016,5,7,5,18,1,2,0,0,1
+2016-05-07,Event,National,Ecuador,Terremoto Manabi+21,0,2016,5,7,5,18,1,2,0,0,1
+2016-05-08,Event,National,Ecuador,Terremoto Manabi+22,0,2016,5,8,6,18,1,2,0,0,1
+2016-05-08,Event,National,Ecuador,Dia de la Madre,0,2016,5,8,6,18,1,2,0,0,1
+2016-05-09,Event,National,Ecuador,Terremoto Manabi+23,0,2016,5,9,0,19,0,2,0,0,1
+2016-05-10,Event,National,Ecuador,Terremoto Manabi+24,0,2016,5,10,1,19,0,2,0,0,1
+2016-05-11,Event,National,Ecuador,Terremoto Manabi+25,0,2016,5,11,2,19,0,2,0,0,1
+2016-05-12,Holiday,Local,Puyo,Cantonizacion del Puyo,0,2016,5,12,3,19,0,2,0,0,1
+2016-05-12,Event,National,Ecuador,Terremoto Manabi+26,0,2016,5,12,3,19,0,2,0,0,1
+2016-05-13,Event,National,Ecuador,Terremoto Manabi+27,0,2016,5,13,4,19,0,2,0,0,1
+2016-05-14,Event,National,Ecuador,Terremoto Manabi+28,0,2016,5,14,5,19,1,2,0,0,1
+2016-05-15,Event,National,Ecuador,Terremoto Manabi+29,0,2016,5,15,6,19,1,2,0,0,1
+2016-05-16,Event,National,Ecuador,Terremoto Manabi+30,0,2016,5,16,0,20,0,2,0,0,1
+2016-05-24,Holiday,National,Ecuador,Batalla de Pichincha,1,2016,5,24,1,21,0,2,0,0,1
+2016-05-27,Transfer,National,Ecuador,Traslado Batalla de Pichincha,0,2016,5,27,4,21,0,2,0,0,1
+2016-06-23,Holiday,Local,Guaranda,Cantonizacion de Guaranda,0,2016,6,23,3,25,0,2,0,0,2
+2016-06-25,Holiday,Local,Machala,Fundacion de Machala,0,2016,6,25,5,25,1,2,0,0,2
+2016-06-25,Holiday,Regional,Imbabura,Provincializacion de Imbabura,0,2016,6,25,5,25,1,2,0,0,2
+2016-06-25,Holiday,Local,Latacunga,Cantonizacion de Latacunga,0,2016,6,25,5,25,1,2,0,0,2
+2016-07-03,Holiday,Local,El Carmen,Cantonizacion de El Carmen,0,2016,7,3,6,26,1,3,0,0,2
+2016-07-03,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,0,2016,7,3,6,26,1,3,0,0,2
+2016-07-23,Holiday,Local,Cayambe,Cantonizacion de Cayambe,0,2016,7,23,5,29,1,3,0,0,2
+2016-07-24,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,0,2016,7,24,6,29,1,3,0,0,2
+2016-07-24,Transfer,Local,Guayaquil,Traslado Fundacion de Guayaquil,0,2016,7,24,6,29,1,3,0,0,2
+2016-07-25,Holiday,Local,Guayaquil,Fundacion de Guayaquil,1,2016,7,25,0,30,0,3,0,0,2
+2016-08-05,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,0,2016,8,5,4,31,0,3,0,0,2
+2016-08-10,Holiday,National,Ecuador,Primer Grito de Independencia,1,2016,8,10,2,32,0,3,0,0,2
+2016-08-12,Transfer,National,Ecuador,Traslado Primer Grito de Independencia,0,2016,8,12,4,32,0,3,0,0,2
+2016-08-15,Holiday,Local,Riobamba,Fundacion de Riobamba,0,2016,8,15,0,33,0,3,0,0,2
+2016-08-24,Holiday,Local,Ambato,Fundacion de Ambato,0,2016,8,24,2,34,0,3,0,0,2
+2016-09-28,Holiday,Local,Ibarra,Fundacion de Ibarra,0,2016,9,28,2,39,0,3,0,0,3
+2016-10-07,Holiday,Local,Quevedo,Cantonizacion de Quevedo,0,2016,10,7,4,40,0,4,0,0,3
+2016-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,0,2016,10,9,6,40,1,4,0,0,3
+2016-11-02,Holiday,National,Ecuador,Dia de Difuntos,0,2016,11,2,2,44,0,4,0,0,3
+2016-11-03,Holiday,National,Ecuador,Independencia de Cuenca,0,2016,11,3,3,44,0,4,0,0,3
+2016-11-04,Bridge,National,Ecuador,Puente Dia de Difuntos,0,2016,11,4,4,44,0,4,0,0,3
+2016-11-06,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,0,2016,11,6,6,44,1,4,0,0,3
+2016-11-07,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,0,2016,11,7,0,45,0,4,0,0,3
+2016-11-10,Holiday,Local,Guaranda,Independencia de Guaranda,0,2016,11,10,3,45,0,4,0,0,3
+2016-11-11,Holiday,Local,Latacunga,Independencia de Latacunga,0,2016,11,11,4,45,0,4,0,0,3
+2016-11-12,Holiday,Local,Ambato,Independencia de Ambato,0,2016,11,12,5,45,1,4,0,0,3
+2016-11-12,Work Day,National,Ecuador,Recupero Puente Dia de Difuntos,0,2016,11,12,5,45,1,4,0,0,3
+2016-11-25,Event,National,Ecuador,Black Friday,0,2016,11,25,4,47,0,4,0,0,3
+2016-11-28,Event,National,Ecuador,Cyber Monday,0,2016,11,28,0,48,0,4,0,0,3
+2016-12-05,Additional,Local,Quito,Fundacion de Quito-1,0,2016,12,5,0,49,0,4,0,0,0
+2016-12-06,Holiday,Local,Quito,Fundacion de Quito,0,2016,12,6,1,49,0,4,0,0,0
+2016-12-08,Holiday,Local,Loja,Fundacion de Loja,0,2016,12,8,3,49,0,4,0,0,0
+2016-12-21,Additional,National,Ecuador,Navidad-4,0,2016,12,21,2,51,0,4,0,0,0
+2016-12-22,Additional,National,Ecuador,Navidad-3,0,2016,12,22,3,51,0,4,0,0,0
+2016-12-22,Holiday,Local,Salinas,Cantonizacion de Salinas,0,2016,12,22,3,51,0,4,0,0,0
+2016-12-23,Additional,National,Ecuador,Navidad-2,0,2016,12,23,4,51,0,4,0,0,0
+2016-12-24,Additional,National,Ecuador,Navidad-1,0,2016,12,24,5,51,1,4,0,0,0
+2016-12-25,Holiday,National,Ecuador,Navidad,0,2016,12,25,6,51,1,4,0,0,0
+2016-12-26,Additional,National,Ecuador,Navidad+1,0,2016,12,26,0,52,0,4,0,0,0
+2016-12-31,Additional,National,Ecuador,Primer dia del ano-1,0,2016,12,31,5,52,1,4,0,1,0
+2017-01-01,Holiday,National,Ecuador,Primer dia del ano,1,2017,1,1,6,52,1,1,1,0,0
+2017-01-02,Transfer,National,Ecuador,Traslado Primer dia del ano,0,2017,1,2,0,1,0,1,0,0,0
+2017-02-27,Holiday,National,Ecuador,Carnaval,0,2017,2,27,0,9,0,1,0,0,0
+2017-02-28,Holiday,National,Ecuador,Carnaval,0,2017,2,28,1,9,0,1,0,1,0
+2017-03-02,Holiday,Local,Manta,Fundacion de Manta,0,2017,3,2,3,9,0,1,0,0,1
+2017-04-01,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,0,2017,4,1,5,13,1,2,1,0,1
+2017-04-12,Holiday,Local,Cuenca,Fundacion de Cuenca,1,2017,4,12,2,15,0,2,0,0,1
+2017-04-13,Transfer,Local,Cuenca,Fundacion de Cuenca,0,2017,4,13,3,15,0,2,0,0,1
+2017-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,0,2017,4,14,4,15,0,2,0,0,1
+2017-04-14,Holiday,National,Ecuador,Viernes Santo,0,2017,4,14,4,15,0,2,0,0,1
+2017-04-21,Holiday,Local,Riobamba,Cantonizacion de Riobamba,0,2017,4,21,4,16,0,2,0,0,1
+2017-05-01,Holiday,National,Ecuador,Dia del Trabajo,0,2017,5,1,0,18,0,2,1,0,1
+2017-05-12,Holiday,Local,Puyo,Cantonizacion del Puyo,0,2017,5,12,4,19,0,2,0,0,1
+2017-05-13,Additional,National,Ecuador,Dia de la Madre-1,0,2017,5,13,5,19,1,2,0,0,1
+2017-05-14,Event,National,Ecuador,Dia de la Madre,0,2017,5,14,6,19,1,2,0,0,1
+2017-05-24,Holiday,National,Ecuador,Batalla de Pichincha,1,2017,5,24,2,21,0,2,0,0,1
+2017-05-26,Transfer,National,Ecuador,Traslado Batalla de Pichincha,0,2017,5,26,4,21,0,2,0,0,1
+2017-06-23,Holiday,Local,Guaranda,Cantonizacion de Guaranda,0,2017,6,23,4,25,0,2,0,0,2
+2017-06-25,Holiday,Regional,Imbabura,Provincializacion de Imbabura,0,2017,6,25,6,25,1,2,0,0,2
+2017-06-25,Holiday,Local,Latacunga,Cantonizacion de Latacunga,0,2017,6,25,6,25,1,2,0,0,2
+2017-06-25,Holiday,Local,Machala,Fundacion de Machala,0,2017,6,25,6,25,1,2,0,0,2
+2017-07-03,Holiday,Local,El Carmen,Cantonizacion de El Carmen,0,2017,7,3,0,27,0,3,0,0,2
+2017-07-03,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,0,2017,7,3,0,27,0,3,0,0,2
+2017-07-23,Holiday,Local,Cayambe,Cantonizacion de Cayambe,0,2017,7,23,6,29,1,3,0,0,2
+2017-07-24,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,0,2017,7,24,0,30,0,3,0,0,2
+2017-07-25,Additional,Local,Guayaquil,Fundacion de Guayaquil,0,2017,7,25,1,30,0,3,0,0,2
+2017-08-05,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,0,2017,8,5,5,31,1,3,0,0,2
+2017-08-10,Holiday,National,Ecuador,Primer Grito de Independencia,1,2017,8,10,3,32,0,3,0,0,2
+2017-08-11,Transfer,National,Ecuador,Traslado Primer Grito de Independencia,0,2017,8,11,4,32,0,3,0,0,2
+2017-08-15,Holiday,Local,Riobamba,Fundacion de Riobamba,0,2017,8,15,1,33,0,3,0,0,2
+2017-08-24,Holiday,Local,Ambato,Fundacion de Ambato,0,2017,8,24,3,34,0,3,0,0,2
+2017-09-28,Holiday,Local,Ibarra,Fundacion de Ibarra,1,2017,9,28,3,39,0,3,0,0,3
+2017-09-29,Transfer,Local,Ibarra,Fundacion de Ibarra,0,2017,9,29,4,39,0,3,0,0,3
+2017-10-07,Holiday,Local,Quevedo,Cantonizacion de Quevedo,0,2017,10,7,5,40,1,4,0,0,3
+2017-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,0,2017,10,9,0,41,0,4,0,0,3
+2017-11-02,Holiday,National,Ecuador,Dia de Difuntos,0,2017,11,2,3,44,0,4,0,0,3
+2017-11-03,Holiday,National,Ecuador,Independencia de Cuenca,0,2017,11,3,4,44,0,4,0,0,3
+2017-11-06,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,0,2017,11,6,0,45,0,4,0,0,3
+2017-11-07,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,0,2017,11,7,1,45,0,4,0,0,3
+2017-11-10,Holiday,Local,Guaranda,Independencia de Guaranda,0,2017,11,10,4,45,0,4,0,0,3
+2017-11-11,Holiday,Local,Latacunga,Independencia de Latacunga,0,2017,11,11,5,45,1,4,0,0,3
+2017-11-12,Holiday,Local,Ambato,Independencia de Ambato,0,2017,11,12,6,45,1,4,0,0,3
+2017-12-05,Additional,Local,Quito,Fundacion de Quito-1,0,2017,12,5,1,49,0,4,0,0,0
+2017-12-06,Holiday,Local,Quito,Fundacion de Quito,1,2017,12,6,2,49,0,4,0,0,0
+2017-12-08,Holiday,Local,Loja,Fundacion de Loja,0,2017,12,8,4,49,0,4,0,0,0
+2017-12-08,Transfer,Local,Quito,Traslado Fundacion de Quito,0,2017,12,8,4,49,0,4,0,0,0
+2017-12-21,Additional,National,Ecuador,Navidad-4,0,2017,12,21,3,51,0,4,0,0,0
+2017-12-22,Holiday,Local,Salinas,Cantonizacion de Salinas,0,2017,12,22,4,51,0,4,0,0,0
+2017-12-22,Additional,National,Ecuador,Navidad-3,0,2017,12,22,4,51,0,4,0,0,0
+2017-12-23,Additional,National,Ecuador,Navidad-2,0,2017,12,23,5,51,1,4,0,0,0
+2017-12-24,Additional,National,Ecuador,Navidad-1,0,2017,12,24,6,51,1,4,0,0,0
+2017-12-25,Holiday,National,Ecuador,Navidad,0,2017,12,25,0,52,0,4,0,0,0
+2017-12-26,Additional,National,Ecuador,Navidad+1,0,2017,12,26,1,52,0,4,0,0,0
