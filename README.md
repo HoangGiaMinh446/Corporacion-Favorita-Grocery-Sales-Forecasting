@@ -73,9 +73,9 @@ Kết quả đánh giá trên tập kiểm thử (Test Set) chứng minh hiệu 
 
 | Model | RMSE | MAE | R² Score | Note (Nhận xét) |
 | :--- | :--- | :--- | :--- | :--- |
-| **XGBoost** | **[Low]** | **[Low]** | **[High]** | **Best Model.** Hiệu suất tốt nhất trên dữ liệu bảng có cấu trúc, xử lý tốt các biến động ngắn hạn. |
+| **XGBoost** | **[0.59]** | **[0.46]** | **[0.54]** | **Best Model.** Hiệu suất tốt nhất trên dữ liệu bảng có cấu trúc, xử lý tốt biến động ngắn hạn. |
 | **LSTM** | *...* | *...* | *...* | Khả năng nắm bắt các mẫu hình chuỗi thời gian phức tạp (Non-linear patterns). |
-| **Linear Regression** | *...* | *...* | *...* | **Baseline Reference.** Mốc tham chiếu cơ bản để đánh giá độ cải thiện của các mô hình khác. |
+| **Linear Regression** | *...* | *...* | *...* | **Baseline Reference.** Mốc tham chiếu cơ bản để đánh giá độ cải thiện. |
 
 > * **Lưu ý:** Chi tiết số liệu chính xác vui lòng xem output tại cell cuối cùng của notebook (`src/favorita_code.ipynb`).*
 
