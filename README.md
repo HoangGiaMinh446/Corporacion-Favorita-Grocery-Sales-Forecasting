@@ -69,13 +69,19 @@ Mở và chạy file notebook trong thư mục src/ tuần tự từ trên xu
 
 ## Model Performance
 
-Kết quả đánh giá trên tập kiểm thử (Test Set) chứng minh hiệu quả của chiến lược đa mô hình, trong đó **XGBoost** cho thấy sự vượt trội về độ chính xác:
+Kết quả đánh giá trên tập kiểm thử (Test Set) chứng minh **XGBoost** là mô hình đạt hiệu quả dự báo cao nhất. Chi tiết so sánh hiệu năng giữa các mô hình như sau:
 
-| Mô hình (Model) | Hiệu suất (Metrics) | Đánh giá & Nhận xét chi tiết |
-| :--- | :--- | :--- |
-| **XGBoost**<br>*(Gradient Boosting)* | **RMSE:** [0.59]<br>**MAE:** [0.46]<br>**R²:** [0.54] | **Best Model**<br>• Hiệu suất tốt nhất trên dữ liệu bảng có cấu trúc.<br>• Xử lý tốt các biến động ngắn hạn nhờ cơ chế Boosting.<br>• Thời gian huấn luyện nhanh hơn Deep Learning. |
-| **LSTM**<br>*(Deep Learning)* | RMSE: [0.61]<br>MAE: [0.48]<br>R²: [0.51] | **Complex Patterns Capture**<br>• Có khả năng nắm bắt các mẫu hình phi tuyến tính phức tạp.<br>• Học được sự phụ thuộc chuỗi dài (Long-term dependencies).<br>• Cần nhiều dữ liệu và thời gian training hơn. |
-| **Linear Regression**<br>*(Baseline)* | RMSE: [0.65]<br>MAE: [0.51]<br>R²: [0.43] | **Baseline Reference**<br>• Mốc tham chiếu cơ bản để đánh giá độ cải thiện.<br>• Mô hình đơn giản, dễ giải thích (Explainable).<br>• Hiệu quả thấp hơn khi dữ liệu có tính phi tuyến cao. |
+* **XGBoost (Gradient Boosting) - Best Model**
+    * **Hiệu suất:** `RMSE: [0.59]` | `MAE: [0.46]` | `R²: [0.54]`
+    * **Đánh giá:** Đạt độ chính xác cao nhất trên dữ liệu bảng có cấu trúc. Xử lý rất tốt các biến động ngắn hạn và tính mùa vụ nhờ cơ chế Boosting và Early Stopping.
+
+* **LSTM (Deep Learning)**
+    * **Hiệu suất:** `RMSE: [0.61]` | `MAE: [0.48]` | `R²: [0.51]`
+    * **Đánh giá:** Thể hiện khả năng nắm bắt các mẫu hình phi tuyến tính phức tạp và chuỗi phụ thuộc dài (Long-term dependencies). Tuy nhiên, thời gian huấn luyện lâu hơn so với XGBoost.
+
+* **Linear Regression (Baseline)**
+    * **Hiệu suất:** `RMSE: [0.65]` | `MAE: [0.51]` | `R²: [0.43]`
+    * **Đánh giá:** Đóng vai trò mốc tham chiếu cơ sở. Hiệu quả thấp hơn các mô hình phi tuyến nhưng có ưu điểm là đơn giản và dễ giải thích (Explainable).
 
 ## Project Structure
 
