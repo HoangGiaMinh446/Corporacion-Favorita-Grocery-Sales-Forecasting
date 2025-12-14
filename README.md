@@ -58,8 +58,7 @@ Dự án kết hợp sức mạnh của Machine Learning truyền thống và De
 Đảm bảo đã cài đặt Python và các thư viện cần thiết.
 *(Khuyến nghị: Sử dụng môi trường ảo `conda` hoặc `venv` để tránh xung đột phiên bản ví dụ như Google Colab).*
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost torch
+```bash: pip install pandas numpy matplotlib seaborn scikit-learn xgboost torch
 
 ### Prepare Data
 Đảm bảo các file dữ liệu .csv (items, stores, train_final,...) đã được đặt đúng trong thư mục data_preprocessing/ như cấu trúc thư mục ở dưới.
