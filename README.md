@@ -71,15 +71,15 @@ Mở và chạy file notebook trong thư mục src/ tuần tự từ trên xu
 Kết quả đánh giá trên tập kiểm thử (Test Set) chứng minh **XGBoost** là mô hình đạt hiệu quả dự báo cao nhất. Chi tiết so sánh hiệu năng giữa các mô hình như sau:
 
 * **XGBoost (Gradient Boosting) - Best Model**
-    * **Hiệu suất:** `RMSE: [0.59]` | `MAE: [0.46]` | `R²: [0.54]`
+    * **Hiệu suất:** `RMSE: [0.5137]` | `MAE: [0.4004]` | `R²: [0.6532]`
     * **Đánh giá:** Đạt độ chính xác cao nhất trên dữ liệu bảng có cấu trúc. Xử lý rất tốt các biến động ngắn hạn và tính mùa vụ nhờ cơ chế Boosting và Early Stopping.
 
 * **LSTM (Deep Learning)**
-    * **Hiệu suất:** `RMSE: [0.61]` | `MAE: [0.48]` | `R²: [0.51]`
+    * **Hiệu suất:** `RMSE: [0.5154]` | `MAE: [0.4011]` | `R²: [0.6509]`
     * **Đánh giá:** Thể hiện khả năng nắm bắt các mẫu hình phi tuyến tính phức tạp và chuỗi phụ thuộc dài (Long-term dependencies). Tuy nhiên, thời gian huấn luyện lâu hơn so với XGBoost.
 
 * **Linear Regression (Baseline)**
-    * **Hiệu suất:** `RMSE: [0.65]` | `MAE: [0.51]` | `R²: [0.43]`
+    * **Hiệu suất:** `RMSE: [0.5478]` | `MAE: [0.4304]` | `R²: [0.6057]`
     * **Đánh giá:** Đóng vai trò mốc tham chiếu cơ sở. Hiệu quả thấp hơn các mô hình phi tuyến nhưng có ưu điểm là đơn giản và dễ giải thích (Explainable).
 
 ## Project Structure
