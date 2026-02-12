@@ -86,14 +86,14 @@ Kết quả đánh giá trên tập kiểm thử (Test Set) chứng minh **XGBoo
 
 ```text
 favorita-forecasting/
-├── data_preprocessing/       # Chứa dữ liệu đầu vào đã qua xử lý sơ bộ
+├── data_preprocessing/       # Chứa dữ liệu đầu vào đã qua xử lý
 │   ├── items.csv             # Thông tin sản phẩm
 │   ├── stores.csv            # Thông tin cửa hàng
 │   ├── holidays_final.csv    # Dữ liệu ngày lễ tết
-│   ├── oil_final.csv         # Giá dầu (yếu tố kinh tế vĩ mô)
+│   ├── oil_final.csv         # Giá dầu
 │   ├── transactions_final.csv # Lịch sử giao dịch
-│   └── train_final_sample.csv       # Dữ liệu huấn luyện chính đã được cắt bớt làm mẫu nhỏ do train_final gốc chứa gần 5 tỷ bản ghi không thể upload lên github
+│   └── train_final_sample.csv # Dữ liệu huấn luyện chính đã được cắt bớt làm mẫu nhỏ do train_final gốc chứa gần 5 tỷ bản ghi không thể upload lên github
 │
 ├── src/                      # Source code chính
-│   └── favorita_code.ipynb   # Jupyter Notebook chứa toàn bộ quy trình end-to-end (EDA -> Modeling)
+│   └── favorita_forecasting.ipynb   # Jupyter Notebook chứa toàn bộ quy trình end-to-end (ETL -> EDA -> Modeling -> Evaluation)
 └── README.md                 # Tài liệu hướng dẫn
